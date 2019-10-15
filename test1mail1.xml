@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><email>
+  <envnelope>
+    <from id="MAIL From">test2@test.com</from>
+    <to id="RCPT to">test1@test.com</to>
+  </envnelope>
+  <message>
+    <header>
+      <from>test2</from>
+      <to>test1</to>
+      <date>2008-04-15 11:05:17 (GMT/Coordinated Universal Time)</date>
+      <subject>an interesting thing</subject>
+    </header>
+    <body>
+      <text>This is an interesting email application.&#13;this isnt the best made email retrive application as well.</text>
+    </body>
+  </message>
+  <deleted>no</deleted>
+</email>

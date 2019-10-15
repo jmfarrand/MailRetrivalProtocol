@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><email>
+  <envnelope>
+    <from id="MAIL From">test2@test.com</from>
+    <to id="RCPT to">test1@test.com</to>
+  </envnelope>
+  <message>
+    <header>
+      <from>test2</from>
+      <to>test1</to>
+      <date>2000-01-01 00:00:00 (GMT/Coordinated Universal Time)</date>
+      <subject>NEW MILLENIUM</subject>
+    </header>
+    <body>
+      <text>WELCOME TO THE 21ST CENTURY!!!!!</text>
+    </body>
+  </message>
+  <deleted>no</deleted>
+</email>
